@@ -5,7 +5,7 @@
 #         Outputs the lake shapefile with all geometric features, retaining
 #         the original field attributes, and adds 7 new fields(city name, city
 #         country, city administrative name, city population, city x/y coordinates,
-#         and the distance to the lake centroid*). Thes new fields are from the
+#         and the distance to the lake centroid*). These new fields are from the
 #         closest city to the centroid from each lake.
 
 #Import libraries

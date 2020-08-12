@@ -1,3 +1,3 @@
-# Python Projects developed in the ArcGIS enviornment
+# Python Projects Developed in the ArcGIS Enviornment
 
 Main libraries Used: arcpy
